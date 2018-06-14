@@ -1,0 +1,10 @@
+div {
+  display: block;
+  background-color: red;
+  color: white;
+  font-family: 'Lato', sans-serif, 'Noto Sans', sans-serif, 'Muli', sans-serif,'Josefin Sans', sans-serif;
+}
+
+body {
+  background-color: red;
+}
